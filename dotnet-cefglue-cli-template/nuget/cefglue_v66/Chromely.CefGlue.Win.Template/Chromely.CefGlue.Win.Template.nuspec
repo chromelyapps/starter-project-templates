@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Chromely.CefGlue.Win.Template</id>
+    <version>66.0.0</version>
+    <description>
+      This is Chromely CefGlue Windows app demo starter template. This will install an x64 Windows version for dotnet cli. For more info please check https://github.com/chromelyapps/Chromely.
+    </description>
+    <authors>Chromely Projects</authors>
+	<iconUrl>https://github.com/chromelyapps/Chromely/blob/master/nugets/chromely.ico?raw=true</iconUrl>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+  </metadata>
+</package>

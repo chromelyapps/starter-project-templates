@@ -1,0 +1,8 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Chromely Projects",
+    "classifications": [ "Common", "Console" ],
+    "identity": "Chromely.CefSharp.Win.Template",
+    "name": "Chromely CefGlue Windows Application Template",
+    "shortName": "chromelywin"
+}
