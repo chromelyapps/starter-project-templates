@@ -1,0 +1,8 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Chromely Projects",
+    "classifications": [ "Common", "Console" ],
+    "identity": "Chromely.CefGlue.Angular.Template",
+    "name": "Chromely CefGlue Angular Application Template",
+    "shortName": "chromelyglueangular"
+}
