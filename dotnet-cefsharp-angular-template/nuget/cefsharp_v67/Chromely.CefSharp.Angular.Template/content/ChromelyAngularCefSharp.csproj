@@ -27,7 +27,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="CefSharp.Common" Version="67.0.0" />
+    <PackageReference Include="CefSharp.Common" Version="98.1.210" />
     <PackageReference Include="Chromely.CefSharp.Winapi" Version="67.0.0" />
   </ItemGroup>
   
